@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54W,xxx
+D Schottky barrier diode, SOT-323
+K schottky diode
+F https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf
+$ENDCMP
+#
+$CMP BZX84C12-7-F
+D 350mW Zener Diode, SOT-23
+K zener diode
+F https://www.diodes.com/assets/Datasheets/ds18001.pdf
+$ENDCMP
+#
+#End Doc Library

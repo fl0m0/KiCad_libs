@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PB06-B-WT-2RGB-N-Y
+D Push button switch with RGB LEDs, 100mA, 12V
+K switch normally-open pushbutton push-button LED
+F http://www.honyone.com/en/products/show_243.html
+$ENDCMP
+#
+#End Doc Library

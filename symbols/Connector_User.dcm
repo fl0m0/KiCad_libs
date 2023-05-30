@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 197084011
+D PCB Tab Quick Disconnect, Male, for Wire, Box, Tab 4.75mm x 0.81mm, Vertical
+K PCB Tab Quick Disconnect Spade Terminal
+F https://www.molex.com/molex/products/part-detail/quick_disconnects/0197084011
+$ENDCMP
+#
+$CMP 2061-1621_998-404
+D PCB terminal block, 1 position, THT, 3.5mm pitch, Wago
+K connector terminal
+F https://www.wago.com/de/leiterplattenanschluss/thr-klemmenleiste-mit-betaetigungsdrueckern-im-gurt/p/2061-1621_998-404
+$ENDCMP
+#
+$CMP 2061-621_998-404
+D PCB terminal block, 1 position, SMD, 3.5mm pitch, Wago
+K connector terminal
+F https://www.wago.com/de/leiterplattenanschluss/thr-klemmenleiste-mit-betaetigungsdrueckern-im-gurt/p/2061-1621_998-404
+$ENDCMP
+#
+$CMP 2137160001
+D USB 2.0-only Type-C Receptacle connector
+K usb universal serial bus type-C USB2.0
+F https://www.molex.com/molex/products/part-detail/io_connectors/2137160001
+$ENDCMP
+#
+$CMP 360291
+D PCB terminal block, 1 position, THT, AWG22 - AWG14, Metz Connect
+K connector terminal
+F https://www.metz-connect.com/html/overlay:service:download.en.html?filepath=db%3Aproducts%2Fdocid%3A8a8a80ea7cb7943b017ccc0508e413d9.de.1&fileurl=360291%2F863862.PDFhttps://www.metz-connect.com/html/overlay:service:download.en.html?filepath=db%3Aproducts%2Fdocid%3A8a8a80ea7cb7943b017ccc0508e413d9.de.1&fileurl=360291%2F863862.PDF
+$ENDCMP
+#
+$CMP 77311-118-06LF
+D Pin Header, 01x06, 2.54mm, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/77311.pdf
+$ENDCMP
+#
+$CMP 928814-1
+D PCB Tab Quick Disconnect, Male, for Wire, Faston 250, Tab 4.75mm x 0.81mm, Vertical
+K PCB Tab Quick Disconnect Spade Terminal Faston
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Catalog+Section%7F82004_FASTON_PCB_Tabs_Receptacles%7F0914%7Fpdf%7FEnglish%7FENG_CS_82004_FASTON_PCB_Tabs_Receptacles_0914.pdf
+$ENDCMP
+#
+$CMP CT2910-9
+D Banana Jack, Quick Disconnect, Tab 8mm x 4.8mm x 0.8mm, White
+K Banana Jack
+F https://media.digikey.com/pdf/Data%20Sheets/Cal%20Test%20PDFs/Catalog.pdf
+$ENDCMP
+#
+#End Doc Library

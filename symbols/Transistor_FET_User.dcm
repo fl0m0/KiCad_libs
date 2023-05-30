@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSH103,xxx
+D 30V Vds, 0.85A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://assets.nexperia.com/documents/data-sheet/BSH103.pdf
+$ENDCMP
+#
+$CMP PMV30UN2x
+D -5.4AA Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://assets.nexperia.com/documents/data-sheet/PMV30UN2.pdf
+$ENDCMP
+#
+#End Doc Library

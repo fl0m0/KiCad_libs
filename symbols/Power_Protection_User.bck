@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 824001
+D Very low capacitance ESD protection diode, 4 data-line, SOT-23-6
+K usb ethernet sim card video
+F https://www.we-online.com/catalog/datasheet/824001.pdf
+$ENDCMP
+#
+$CMP 824021
+D TVS Diode Array, 5.0V Standoff, 2 Channels, SOT-23 package
+K usb esd protection suppression transient
+F https://www.we-online.com/catalog/datasheet/824021.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150060GS75000
+D Top View SMD LED, Green, 0603
+K SMD LED
+F https://www.we-online.com/katalog/datasheet/150060GS75000.pdf
+$ENDCMP
+#
+$CMP IN-S63AT5UW
+D Top View SMD LED, White, 0603
+K SMD LED
+F http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf
+$ENDCMP
+#
+#End Doc Library

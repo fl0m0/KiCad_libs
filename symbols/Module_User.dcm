@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Teensy_LC
+D Teensy LC with Header and Sockets
+F https://www.pjrc.com/store/teensylc.html
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0R,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 100k,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 10k,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 1k,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 2.2k,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 22R,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 330k,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 3k,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 47R,1206
+D Resistor, 1206
+K R resistor
+F ~
+$ENDCMP
+#
+$CMP 5.1k,0603
+D Resistor, 0603
+K R resistor
+F ~
+$ENDCMP
+#
+#End Doc Library

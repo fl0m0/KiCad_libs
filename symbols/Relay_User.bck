@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JW1
+D General Purpose Relay SPST (1 Form A) Through Hole, Panasonic JW series
+K Panasonic Relay Single Pole
+F http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok
+$ENDCMP
+#
+$CMP JW1aFSN-DC5V-F
+D General Purpose Relay SPST (1 Form A) Through Hole, Panasonic JW series
+K Panasonic Relay Single Pole
+F http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok
+$ENDCMP
+#
+#End Doc Library

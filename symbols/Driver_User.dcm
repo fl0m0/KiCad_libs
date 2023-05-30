@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX4822ETP+
+D 8-Channel Serial Interface Relay Driver, 20 TQFN-EP
+K Relay Driver
+F https://datasheets.maximintegrated.com/en/ds/MAX4822-MAX4825.pdf
+$ENDCMP
+#
+$CMP PCA9955TW
+D I2C LED driver
+K I2C LED driver
+F https://www.nxp.com/docs/en/data-sheet/PCA9955B.pdf
+$ENDCMP
+#
+#End Doc Library

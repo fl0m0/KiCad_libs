@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0805L110SLxx
+D Resettable fuse, 1.1A, 6V
+K resettable fuse PTC PPTC polyfuse polyswitch
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=2d55f293-08b4-4e1c-af6d-dbdeccdec69c&filename=littelfuse-ptc-low-rho-datasheet
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100nF,16V,X7R,0603
+D Ceramic capacitor
+K capacitor cap ceramic
+F ~
+$ENDCMP
+#
+$CMP 100nF,50V,X7R,0603
+D Ceramic capacitor
+K capacitor cap ceramic
+F ~
+$ENDCMP
+#
+$CMP 1uF,16V,X7R,0603
+D Ceramic capacitor
+K capacitor cap ceramic
+F ~
+$ENDCMP
+#
+$CMP 1uF,35V,X7R,0603
+D Ceramic capacitor
+K capacitor cap ceramic
+F ~
+$ENDCMP
+#
+$CMP 4.7uF,25V,X7R,0805
+D Ceramic capacitor
+K capacitor cap ceramic
+F ~
+$ENDCMP
+#
+$CMP 470nF,25V,X7R,0603
+D Ceramic capacitor
+K capacitor cap ceramic
+F ~
+$ENDCMP
+#
+#End Doc Library

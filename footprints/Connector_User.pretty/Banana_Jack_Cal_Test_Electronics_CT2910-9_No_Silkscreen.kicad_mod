@@ -1,0 +1,78 @@
+(footprint "Banana_Jack_Cal_Test_Electronics_CT2910-9_No_Silkscreen" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 620D3D55)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5b96c1ad-46ba-4366-8241-fbc1cd0e9bbd)
+  )
+  (fp_text value "Banana_Jack_Cal_Test_Electronics_CT2910-9_No_Silkscreen" (at 0 -0.5) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fced3dbe-eec8-4979-aefd-686432f00d6c)
+  )
+  (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7283b331-43f1-41d9-98ab-08498538d9c8)
+  )
+  (fp_line (start -6 4) (end 6 4) (layer "F.Fab") (width 0.1) (tstamp 0962bc95-93c8-40ff-ad33-c7c98c441ded))
+  (fp_line (start -6 18) (end 6 18) (layer "F.Fab") (width 0.1) (tstamp 0de68c33-86a0-4031-b557-31b99b555e73))
+  (fp_line (start -6 21) (end 6 21) (layer "F.Fab") (width 0.1) (tstamp 2c97519d-7638-4253-9bc7-83cad66d0dda))
+  (fp_line (start -6 20) (end 6 20) (layer "F.Fab") (width 0.1) (tstamp 38f49400-f15c-4d8a-b00b-396c480bd11b))
+  (fp_line (start -6 13) (end 6 13) (layer "F.Fab") (width 0.1) (tstamp 3a8baf3f-42ac-4502-bd02-9119070018bf))
+  (fp_line (start 7 28) (end 7 25) (layer "F.Fab") (width 0.1) (tstamp 42e7e3e2-d6dd-46b8-bdcc-e46e14bd9667))
+  (fp_line (start -6 17) (end 6 17) (layer "F.Fab") (width 0.1) (tstamp 462e6a78-4bb1-47a4-a885-4a88c6d0ba68))
+  (fp_line (start 6 4) (end 6 25) (layer "F.Fab") (width 0.1) (tstamp 46c57564-eb30-4b79-9726-c0f5401795e7))
+  (fp_line (start 7 28) (end -7 28) (layer "F.Fab") (width 0.1) (tstamp 4d1c95b2-64ec-427d-9177-1c2213c09822))
+  (fp_line (start -2.4 4) (end -2.4 -4) (layer "F.Fab") (width 0.1) (tstamp 5c029b14-54d1-401f-80ef-d88a1cb0f497))
+  (fp_line (start -6 24) (end 6 24) (layer "F.Fab") (width 0.1) (tstamp 615ea7cc-12b2-4313-a944-fbfba6ca4cf8))
+  (fp_line (start -6 15) (end 6 15) (layer "F.Fab") (width 0.1) (tstamp 6423ec14-4cd6-4512-81e2-2b811522e8b1))
+  (fp_line (start -6 23) (end 6 23) (layer "F.Fab") (width 0.1) (tstamp 6b36c125-4a90-497e-af7d-96d3cbfb3a08))
+  (fp_line (start -6 22) (end 6 22) (layer "F.Fab") (width 0.1) (tstamp 6b67f84c-8aa1-4ad0-9d64-1e4c336b6f8f))
+  (fp_line (start 7 25) (end -7 25) (layer "F.Fab") (width 0.1) (tstamp 7c24c808-b159-452c-9c10-07ded0dd201c))
+  (fp_line (start -6 12) (end 6 12) (layer "F.Fab") (width 0.1) (tstamp 827fac32-0a2e-47b2-8309-aa5ab42e17c1))
+  (fp_line (start -6 9) (end 6 9) (layer "F.Fab") (width 0.1) (tstamp 91a7d9e9-843f-4446-9b61-11709bab0d69))
+  (fp_line (start -2.4 -4) (end 2.4 -4) (layer "F.Fab") (width 0.1) (tstamp 936cf270-018f-4087-9532-b1eee6ddf5bb))
+  (fp_line (start -6 10) (end 6 10) (layer "F.Fab") (width 0.1) (tstamp 953de829-af5b-4dd8-8de5-9710158472a5))
+  (fp_line (start -6 19) (end 6 19) (layer "F.Fab") (width 0.1) (tstamp a24ce3e9-c04c-46e1-9d49-829f64834ea1))
+  (fp_line (start -6 16) (end 6 16) (layer "F.Fab") (width 0.1) (tstamp a3648a01-10e8-4c1b-8928-d335425d1296))
+  (fp_line (start -6 25) (end -6 4) (layer "F.Fab") (width 0.1) (tstamp c232549d-84da-42b0-ae3e-6ac6e42b0b2e))
+  (fp_line (start -7 25) (end -7 28) (layer "F.Fab") (width 0.1) (tstamp c7bb8e64-b260-4552-b865-4d831fb994ff))
+  (fp_line (start 2.4 -4) (end 2.4 4) (layer "F.Fab") (width 0.1) (tstamp ed7e8ad0-e2b0-4cf2-8b86-86c1f0a54bc1))
+  (fp_line (start -6 11) (end 6 11) (layer "F.Fab") (width 0.1) (tstamp f915932d-aafa-44ac-91d8-02f5cfc1ebc1))
+  (fp_line (start -6 14) (end 6 14) (layer "F.Fab") (width 0.1) (tstamp fcf43128-55af-42af-b6cb-26893535dac6))
+  (group "" (id 231a5c49-db5b-4802-b93a-d113357233ab)
+    (members
+      0962bc95-93c8-40ff-ad33-c7c98c441ded
+      0de68c33-86a0-4031-b557-31b99b555e73
+      2c97519d-7638-4253-9bc7-83cad66d0dda
+      38f49400-f15c-4d8a-b00b-396c480bd11b
+      3a8baf3f-42ac-4502-bd02-9119070018bf
+      42e7e3e2-d6dd-46b8-bdcc-e46e14bd9667
+      462e6a78-4bb1-47a4-a885-4a88c6d0ba68
+      46c57564-eb30-4b79-9726-c0f5401795e7
+      4d1c95b2-64ec-427d-9177-1c2213c09822
+      5c029b14-54d1-401f-80ef-d88a1cb0f497
+      615ea7cc-12b2-4313-a944-fbfba6ca4cf8
+      6423ec14-4cd6-4512-81e2-2b811522e8b1
+      6b36c125-4a90-497e-af7d-96d3cbfb3a08
+      6b67f84c-8aa1-4ad0-9d64-1e4c336b6f8f
+      7c24c808-b159-452c-9c10-07ded0dd201c
+      827fac32-0a2e-47b2-8309-aa5ab42e17c1
+      91a7d9e9-843f-4446-9b61-11709bab0d69
+      936cf270-018f-4087-9532-b1eee6ddf5bb
+      953de829-af5b-4dd8-8de5-9710158472a5
+      a24ce3e9-c04c-46e1-9d49-829f64834ea1
+      a3648a01-10e8-4c1b-8928-d335425d1296
+      c232549d-84da-42b0-ae3e-6ac6e42b0b2e
+      c7bb8e64-b260-4552-b865-4d831fb994ff
+      ed7e8ad0-e2b0-4cf2-8b86-86c1f0a54bc1
+      f915932d-aafa-44ac-91d8-02f5cfc1ebc1
+      fcf43128-55af-42af-b6cb-26893535dac6
+    )
+  )
+  (model "${KICAD_3D_USER}/Connector/Cal_Test_Electronics_CT2910-9.STEP"
+    (offset (xyz 0 -28.2 8.85))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+)
