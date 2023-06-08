@@ -697,7 +697,7 @@
     (property "Footprint" "Button_Switch_THT:SW_CuK_JS202011CQN_DPDT_Straight" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.ckswitches.com/media/1422/js.pdfButton_Switch_THT:SW_CuK_JS202011CQN_DPDT_Straight" (at 0 0 0)
+    (property "Datasheet" "https://www.ckswitches.com/media/1422/js.pdf" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer" "CuK" (at 0 0 0)
