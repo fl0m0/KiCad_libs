@@ -1,6 +1,6 @@
 (footprint "Binding_Post_PK4_Black" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "Pinding Post with Solder Lug, Hole 4.3mm, M4")
+  (descr "Binding Post with Solder Lug, Hole 4.3mm, M4")
   (tags "Binding Post hole 4.3mm")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -4.75) (layer "F.SilkS")

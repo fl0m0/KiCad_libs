@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "-VOffset" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "-Vx" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "-VOffset" (at 0 3.81 0)
+    (property "Value" "-Vx" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 0 0 0)
@@ -18,7 +18,7 @@
     (property "ki_description" "Power symbol creates a global label with name \"-VOffset\"" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "-VOffset_0_1"
+    (symbol "-Vx_0_1"
       (polyline
         (pts
           (xy -0.762 1.27)
@@ -44,9 +44,9 @@
         (fill (type none))
       )
     )
-    (symbol "-VOffset_1_1"
+    (symbol "-Vx_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
-        (name "-VOffset" (effects (font (size 1.27 1.27))))
+        (name "-Vx" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
