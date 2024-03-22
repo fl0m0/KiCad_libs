@@ -288,7 +288,7 @@
     (property "Reference" "C" (at 0.254 1.778 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "410uF,25V,X5R,0603" (at 3.81 -6.35 0)
+    (property "Value" "10uF,25V,X5R,0603" (at 3.81 -6.35 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 1.27 -11.43 0)
