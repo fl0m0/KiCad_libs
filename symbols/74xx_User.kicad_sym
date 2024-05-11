@@ -769,7 +769,7 @@
 					(type background)
 				)
 			)
-			(pin output inverted
+			(pin output line
 				(at 7.62 0 180)
 				(length 3.81)
 				(name "~"
