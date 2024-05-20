@@ -39,7 +39,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/613008243121.pdf"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -51,7 +51,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "WR-PHD 2.54 mm Angled Dual Socket Header"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -425,6 +425,26 @@
 		(uuid "8d6fe17f-a63d-4f7d-b829-0e31b8309972")
 	)
 	(fp_line
+		(start -3.6 -1.3)
+		(end -3.1 -1.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef1417d7-df2a-4899-9a65-0c48a8f11c0a")
+	)
+	(fp_line
+		(start -3.6 -0.8)
+		(end -3.6 -1.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "99fdcd48-21ef-474b-a614-dbb01a6ffe05")
+	)
+	(fp_line
 		(start -1.49 -0.36)
 		(end -1.11 -0.36)
 		(stroke
@@ -503,26 +523,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "e5999344-a503-4a95-8aa6-94f0d66b79c7")
-	)
-	(fp_line
-		(start 0 -1.33)
-		(end 1.11 -1.33)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "99fdcd48-21ef-474b-a614-dbb01a6ffe05")
-	)
-	(fp_line
-		(start 1.11 -1.33)
-		(end 1.11 0)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "ef1417d7-df2a-4899-9a65-0c48a8f11c0a")
 	)
 	(fp_line
 		(start -13.05 -1.75)
@@ -745,12 +745,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at -2.54 0)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
 		(uuid "477f9a4e-ef2e-4e09-ac2b-283f34b442b6")
 	)
 	(pad "2" thru_hole oval
