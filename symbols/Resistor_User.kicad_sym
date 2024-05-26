@@ -6060,7 +6060,7 @@
 				)
 			)
 		)
-		(property "Value" "470k_Potentiometer_PT15NV17-474A2020-I-PM-S"
+		(property "Value" "470k"
 			(at -2.54 0 90)
 			(effects
 				(font
@@ -6156,44 +6156,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(symbol "470k_Potentiometer_PT15NV17-474A2020-I-PM-S_0_0"
-			(pin no_connect line
-				(at 2.54 -3.81 90)
-				(length 2.54) hide
-				(name "MH1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "MH1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 5.08 -3.81 90)
-				(length 2.54) hide
-				(name "MH2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "MH2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
 			)
 		)
 		(symbol "470k_Potentiometer_PT15NV17-474A2020-I-PM-S_0_1"
