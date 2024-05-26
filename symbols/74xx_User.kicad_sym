@@ -1026,7 +1026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-20_12.8x7.5mm_P1.27mm"
+		(property "Footprint" "Package_SO_User:SO-20_12.8x7.5mm_P1.27mm_Handsoldering"
 			(at 0 0 0)
 			(effects
 				(font
