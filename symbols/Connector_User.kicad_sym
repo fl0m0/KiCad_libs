@@ -7768,7 +7768,7 @@
 			)
 		)
 	)
-	(symbol "Pin_Header_02x04_horizontal_Wuerth_613008243121_1"
+	(symbol "Pin_Header_02x04_horizontal_Wuerth_61300821021"
 		(pin_names
 			(offset 1.016) hide)
 		(exclude_from_sim no)
@@ -7799,7 +7799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300821821.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300821021.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7871,7 +7871,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "Pin_Header_02x04_horizontal_Wuerth_613008243121_1_1_1"
+		(symbol "Pin_Header_02x04_horizontal_Wuerth_61300821021_1_1"
 			(rectangle
 				(start -1.27 -4.953)
 				(end 0 -5.207)
@@ -8924,7 +8924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PinSocket_2x04_P2.54mm_Horizontal_613008243121"
+		(property "Footprint" "Connector_User:PinSocket_2x04_P2.54mm_Horizontal_613008243121"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8933,7 +8933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300821821.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/613008243121.pdf"
 			(at 0 0 0)
 			(effects
 				(font
