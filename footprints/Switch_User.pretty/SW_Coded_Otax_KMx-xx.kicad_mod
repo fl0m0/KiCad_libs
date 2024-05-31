@@ -1,0 +1,282 @@
+(footprint "SW_Coded_Otax_KMx-xx"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Coded rotary switch with shaft")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4b8c75b1-df47-45c2-b655-679ae6d81dbb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_Coded_Otax_KMx-xx"
+		(at 0 8.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a19b5940-6af6-4c47-85a6-c8a91d07e7fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "SW_Coded_Otax_KMx-xx"
+		(at 0 7.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa833857-fdb7-4232-b7b1-8d0a11747132")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6be991e8-c57e-4704-a5e4-98025ccdd901")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "037196d7-9eee-48e2-8648-3d357408a6fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.1 -5.1)
+		(end 5.1 -5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fce3199e-938d-4e01-930a-d56532185837")
+	)
+	(fp_line
+		(start -5.1 -3.9)
+		(end -3.9 -5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "718c9940-6bef-4ef4-81f4-6caed996af14")
+	)
+	(fp_line
+		(start -5.1 5.1)
+		(end -5.1 -5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2d3aae2d-184d-47db-a2cf-8ea507243810")
+	)
+	(fp_line
+		(start 5.1 -5.1)
+		(end 5.1 5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "41fd1f3c-ff09-4e20-894e-6d31e4f5d1df")
+	)
+	(fp_line
+		(start 5.1 5.1)
+		(end -5.1 5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5e99f95a-4eb6-4ef7-8085-19ecb4815f8e")
+	)
+	(fp_line
+		(start -5.25 -5.25)
+		(end 5.25 -5.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "64eaac3b-1f5d-4c67-93ae-1f187303fcc1")
+	)
+	(fp_line
+		(start -5.25 5.25)
+		(end -5.25 -5.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "946e1c48-f46d-4a38-8860-db692b615f9c")
+	)
+	(fp_line
+		(start 5.25 -5.25)
+		(end 5.25 5.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "7b802471-c11d-412f-bf8b-aa15f914dccd")
+	)
+	(fp_line
+		(start 5.25 5.25)
+		(end -5.25 5.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "cd201168-fad6-4188-abc4-822b15c40ef9")
+	)
+	(fp_line
+		(start -5 -5)
+		(end 5 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "78f5bcd6-3197-4dfb-9dfe-f871692b913d")
+	)
+	(fp_line
+		(start -5 -4)
+		(end -4 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "53b9e37e-3c18-4ed2-ba65-29c60d400ae7")
+	)
+	(fp_line
+		(start -5 5)
+		(end -5 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "553e9f2f-b160-4ec4-b215-078d0f3989d4")
+	)
+	(fp_line
+		(start 5 -5)
+		(end 5 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "188aeb1f-d68e-4f5c-9e58-c7e0e5c0e468")
+	)
+	(fp_line
+		(start 5 5)
+		(end -5 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "4eaaece7-3c23-4b50-812d-ac166c0b4336")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 9.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "42e6bbf6-2681-4156-8022-1220cc941e40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.8 -2.54)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "34139ad4-e9eb-48bd-8766-41e26c985973")
+	)
+	(pad "2" thru_hole circle
+		(at 3.8 2.54)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "54131b6b-2fd1-471f-b92d-fe35c8889841")
+	)
+	(pad "4" thru_hole circle
+		(at -3.8 2.54)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5a3c282f-24f5-482e-8c91-3c8456700e3d")
+	)
+	(pad "8" thru_hole circle
+		(at 3.8 -2.54)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6d07e4fa-42a7-4f73-9d6a-d71cf7633137")
+	)
+	(pad "C" thru_hole circle
+		(at -3.8 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "92ee51dd-f386-4986-909d-1b52fa1e0db7")
+	)
+	(pad "C" thru_hole circle
+		(at 3.8 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b0268287-45aa-4e6d-8583-97b47a729a7d")
+	)
+	(model "${KICAD_3D_USER}/Switch/Otax_KMx-xx.wrl"
+		(offset
+			(xyz 0 0 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
