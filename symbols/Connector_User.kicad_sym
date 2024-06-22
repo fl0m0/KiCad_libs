@@ -9274,7 +9274,7 @@
 			)
 		)
 		(property "Footprint" "Connector_User:PinSocket_2x06_P2.54mm_Vertical_61301221821"
-			(at 0 0 0)
+			(at 1.27 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9283,7 +9283,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61301221821.pdf"
-			(at 0 0 0)
+			(at 1.27 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
