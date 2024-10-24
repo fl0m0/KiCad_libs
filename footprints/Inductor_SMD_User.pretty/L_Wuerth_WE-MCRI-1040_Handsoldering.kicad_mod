@@ -1,0 +1,290 @@
+(footprint "L_Wuerth_WE-MCRI-1040_Handsoldering"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WE-MCRI SMT Molded Coupled")
+	(tags "Choke Coupled Shielded Power Inductor WE-MCRI")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c5ee88b8-073e-416b-8ed0-0ed0f8862f73")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Wuerth_WE-MCRI-1040_Handsoldering"
+		(at 0 7.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e49241fe-c540-4018-9d3d-e7e9e307bf3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "L_Wuerth_WE-MCRI-1040_Handsoldering"
+		(at 0 12.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b4543c9d-4300-4317-9b7d-abc2c28542c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7448991068.pdf"
+		(at 0 11 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "81a03de6-e728-42bb-97d4-1999ddbf919e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f62142bc-34bd-4b31-b0cd-d7699a6e6c07")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.1 -5.1)
+		(end -5.1 5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "77ca836c-bd40-4690-8b95-2d15eaff90ae")
+	)
+	(fp_line
+		(start -5.1 -5.1)
+		(end -4.5 -5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "72571e62-4bcb-4023-89cd-59464dd68c77")
+	)
+	(fp_line
+		(start -5.1 5.1)
+		(end -4.5 5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8daff7a3-6f3c-4473-b034-94b7608b5fde")
+	)
+	(fp_line
+		(start 5.1 -5.1)
+		(end 4.5 -5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "26794b3e-1b95-476e-9c15-1e7164bddfca")
+	)
+	(fp_line
+		(start 5.1 5.1)
+		(end 4.5 5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cbf207a6-0e85-4d59-b5f1-1408addb170f")
+	)
+	(fp_line
+		(start 5.1 5.1)
+		(end 5.1 -5.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f4ac7136-b052-4493-a3a1-d185695abf25")
+	)
+	(fp_circle
+		(center -5.1 -6.2)
+		(end -4.8 -6.2)
+		(stroke
+			(width 0.6)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "ff3dffcc-9bb2-40e0-8a05-293cdaf90cb8")
+	)
+	(fp_poly
+		(pts
+			(xy 4.4 6.8) (xy 5 5.6) (xy 5.6 6.8)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "ef4e4307-9881-438c-b117-d65e850e067c")
+	)
+	(fp_line
+		(start -5.25 -7.25)
+		(end -5.25 7.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e3bc7ac1-248c-4303-966b-31faef0bf598")
+	)
+	(fp_line
+		(start -5.25 -7.25)
+		(end 5.25 -7.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d5ad4c0-e668-4576-9bd4-7e4baaa9965d")
+	)
+	(fp_line
+		(start 5.25 7.25)
+		(end -5.25 7.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "0d037ab6-9feb-43ac-a465-18e18d33a1d9")
+	)
+	(fp_line
+		(start 5.25 7.25)
+		(end 5.25 -7.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "282cac8f-77ad-4493-88fc-07bfb6b41475")
+	)
+	(fp_line
+		(start -5 -5)
+		(end 5 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "170d97ac-7231-43b1-8917-c1a00f21f7e1")
+	)
+	(fp_line
+		(start -5 5)
+		(end -5 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ed3cc401-a1e5-4678-8bad-75a399cf889b")
+	)
+	(fp_line
+		(start 5 -5)
+		(end 5 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2a2f4a04-837c-4295-a553-a8a1484fc667")
+	)
+	(fp_line
+		(start 5 5)
+		(end -5 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "a91ba784-09e1-40c8-8733-63d8c3b6274f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "39f3ff45-d219-4044-b1a2-42a4ff053467")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2.5 -4.5)
+		(size 3 5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "05c30f44-3aa2-4eb2-ad19-4088a090d164")
+	)
+	(pad "2" smd roundrect
+		(at -2.5 4.5)
+		(size 3 5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "f5267d09-4e9f-4d9f-9251-b509ed5eb830")
+	)
+	(pad "3" smd roundrect
+		(at 2.5 4.5)
+		(size 3 5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "5e058dea-c554-4dc0-ba86-7bd678cebacf")
+	)
+	(pad "4" smd roundrect
+		(at 2.5 -4.5)
+		(size 3 5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "421b0a80-5383-4162-aa9c-e7e1d70966a3")
+	)
+	(model "${KICAD_3D_USER}/Inductor/WE-MCRI-1040.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)

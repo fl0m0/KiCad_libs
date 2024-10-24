@@ -222,7 +222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky barrier diode, SOT-323"
+		(property "Description" "30V 100mA Schottky barrier diode, SOT-323"
 			(at 0 0 0)
 			(effects
 				(font
