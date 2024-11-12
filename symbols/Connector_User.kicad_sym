@@ -6608,24 +6608,6 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 0 0)
-				(length 3.81)
-				(name "MP"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "MP"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at -5.08 2.54 0)
 				(length 3.81)
 				(name "MP"
@@ -6635,7 +6617,25 @@
 						)
 					)
 				)
-				(number "MP"
+				(number "MP1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 3.81)
+				(name "MP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MP2"
 					(effects
 						(font
 							(size 1.27 1.27)
