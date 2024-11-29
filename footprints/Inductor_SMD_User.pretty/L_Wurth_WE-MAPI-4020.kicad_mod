@@ -1,9 +1,9 @@
-(footprint "L_Wurth_WE-MAPI-4030"
+(footprint "L_Wurth_WE-MAPI-4020"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Shielded Power Inductor, body 4x4mm, https://www.we-online.com/catalog/en/WE-MAPI#/articles/WE-MAPI-4030")
+	(descr "Shielded Power Inductor, body 4x4mm, https://www.we-online.com/catalog/en/WE-MAPI#/articles/WE-MAPI-4020")
 	(tags "SMT")
 	(property "Reference" "REF**"
 		(at 0 -3 0)
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "L_Wurth_WE-MAPI-4030"
+	(property "Value" "L_Wurth_WE-MAPI-4020"
 		(at 0 3 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -29,12 +29,12 @@
 			)
 		)
 	)
-	(property "Footprint" "L_Wurth_WE-MAPI-4030"
+	(property "Footprint" "L_Wurth_WE-MAPI-4020"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "33f7f61c-fe56-4730-81e4-9b3703ec132c")
+		(uuid "918998b0-6a0d-461f-8498-d26979c69b8d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "35685808-1d60-4edc-8195-6913f29c453a")
+		(uuid "440b5cbf-a7a1-438c-b2ce-0f11f26c3065")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -58,7 +58,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0cd5bf5a-7dc4-42f6-bf0d-d0f310dc2ab8")
+		(uuid "8d8789a3-44d5-45b3-81a3-4daf32b67021")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -115,7 +115,7 @@
 		)
 		(fill none)
 		(layer "F.CrtYd")
-		(uuid "f504be94-0c0f-4f50-8294-2025e1713c0b")
+		(uuid "d29787af-b646-4594-8407-a4ca3ae9b3ea")
 	)
 	(fp_line
 		(start -2.05 -1.05)
@@ -125,7 +125,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5ac8b9b7-7c61-4576-8607-e1bd43f063de")
+		(uuid "09f06c3e-dd94-4e68-a8d8-cddd36861609")
 	)
 	(fp_line
 		(start -2.05 2.05)
@@ -195,7 +195,7 @@
 		(net 0)
 		(net_name "")
 		(layers "F.Cu" "Dwgs.User")
-		(uuid "0bf15158-cb7f-41b8-84e4-0885858bbef6")
+		(uuid "13bfffa6-6549-4e09-8748-6bb73093e574")
 		(name "Solder Resist")
 		(hatch full 0.1)
 		(connect_pads
@@ -220,7 +220,7 @@
 			)
 		)
 	)
-	(model "${KICAD_3D_USER}/Inductor/L_Wurth_WE-MAPI-4030.wrl"
+	(model "${KICAD_3D_USER}/Inductor/L_Wurth_WE-MAPI-4020.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
