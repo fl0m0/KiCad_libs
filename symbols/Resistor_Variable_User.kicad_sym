@@ -208,6 +208,203 @@
 			)
 		)
 	)
+	(symbol "100k_RV_Trim_TSR-3296W104"
+		(pin_names
+			(offset 1.016) hide)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "RV"
+			(at -4.445 0 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at -2.54 0 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Potentionmeter_THT_User:Potentiometer_Suntan_3296W_Vertical"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-reichelt.de/documents/datenblatt/B400/64W100K.pdf"
+			(at -0.635 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Trim Potentiometer vertical"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Suntan"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TSR-3296W104"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Reichelt"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "64W-100K"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor variable trimpot trimmer potentiometer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Potentiometer*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "100k_RV_Trim_TSR-3296W104_0_1"
+			(polyline
+				(pts
+					(xy 1.524 0.762) (xy 1.524 -0.762)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 0) (xy 1.524 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 1.016 2.54)
+				(end -1.016 -2.54)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "100k_RV_Trim_TSR-3296W104_1_1"
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 0 180)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.27)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "10k_RV_PDB12-H4301-103BF"
 		(pin_names
 			(offset 1.016) hide)
@@ -452,7 +649,7 @@
 			)
 		)
 	)
-	(symbol "10k_RV_Trim_TSR-3296W"
+	(symbol "10k_RV_Trim_TSR-3296W103"
 		(pin_names
 			(offset 1.016) hide)
 		(exclude_from_sim no)
@@ -466,7 +663,7 @@
 				)
 			)
 		)
-		(property "Value" "10k_RV_Trim_TSR-3296W"
+		(property "Value" "10k"
 			(at -2.54 0 90)
 			(effects
 				(font
@@ -492,7 +689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Trim-potentiometer"
+		(property "Description" "Trim Potentiometer vertical"
 			(at 0 0 0)
 			(effects
 				(font
@@ -510,7 +707,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TSR-3296W"
+		(property "MPN" "TSR-3296W103"
 			(at 0 0 0)
 			(effects
 				(font
@@ -555,7 +752,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "10k_RV_Trim_TSR-3296W_0_1"
+		(symbol "10k_RV_Trim_TSR-3296W103_0_1"
 			(polyline
 				(pts
 					(xy 1.524 0.762) (xy 1.524 -0.762)
@@ -592,7 +789,7 @@
 				)
 			)
 		)
-		(symbol "10k_RV_Trim_TSR-3296W_1_1"
+		(symbol "10k_RV_Trim_TSR-3296W103_1_1"
 			(pin passive line
 				(at 0 3.81 270)
 				(length 1.27)
