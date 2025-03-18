@@ -294,7 +294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Info" "Red"
+		(property "Info" "Amber"
 			(at -1.27 -5.08 0)
 			(effects
 				(font

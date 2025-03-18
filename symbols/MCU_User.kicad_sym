@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -11.43 8.89 0)
+			(at -11.43 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16,7 +16,7 @@
 			)
 		)
 		(property "Value" "EFM8BB10F8G-A-SOIC16R"
-			(at -12.7 -16.51 0)
+			(at -12.7 -18.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42,7 +42,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "EFM8BB1, 8K FLASH, 0.5KB RAM, SOIC16"
+		(property "Description" "8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +85 C, SOIC16"
 			(at 0 0 0)
 			(effects
 				(font
@@ -89,14 +89,14 @@
 		)
 		(symbol "EFM8BB10F8G-A-SOIC16R_1_1"
 			(rectangle
-				(start -11.43 7.62)
-				(end 11.43 -15.24)
+				(start -11.43 8.89)
+				(end 11.43 -16.51)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(pin bidirectional line
@@ -441,7 +441,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "8051 microcontroller PWM UART SPI I2C ADC SOIC16"
+		(property "ki_keywords" "8051 microcontroller PWM UART SPI I2C ADC SOIC16 Busy Bee"
 			(at 0 0 0)
 			(effects
 				(font
@@ -851,7 +851,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "8051 microcontroller PWM UART SPI I2C ADC SOIC16"
+		(property "ki_keywords" "8051 microcontroller PWM UART SPI I2C ADC SOIC16 Busy Bee"
 			(at 0 0 0)
 			(effects
 				(font
