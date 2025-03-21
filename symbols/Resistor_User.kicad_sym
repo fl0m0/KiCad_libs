@@ -1,11 +1,15 @@
 (kicad_symbol_lib
-	(version 20231120)
+	(version 20241209)
 	(generator "kicad_symbol_editor")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(symbol "0R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -159,11 +163,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "0R,0805"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -317,11 +326,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "1.1k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -475,11 +489,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "1.2k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -633,11 +652,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "1.5k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -791,11 +815,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "100R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -949,11 +978,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "100k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1107,11 +1141,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "10R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1265,11 +1304,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "10k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1423,11 +1467,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "10m,0612"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1614,11 +1663,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "120k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1772,11 +1826,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "15.4k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1930,11 +1989,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "150R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2088,11 +2152,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "150k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2246,11 +2315,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "1M,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2404,11 +2478,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "1k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2562,11 +2641,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "2.2k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2720,11 +2804,213 @@
 				)
 			)
 		)
+		(embedded_fonts no)
+	)
+	(symbol "200m,1206"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 0 -0.635 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "200m,1206"
+			(at 1.905 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 2.54 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 2.54 -4.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, 1206"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "200m"
+			(at 1.905 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Tolerance" "0.5%"
+			(at 5.08 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Power" "0.5W"
+			(at 10.795 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "1206"
+			(at 4.445 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Ohmite"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KDV12DR200ET"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "273-KDV12DR200ETCT-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "R resistor shunt"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "200m,1206_1_1"
+			(rectangle
+				(start -1.016 -2.54)
+				(end 1.016 2.54)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.27)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.27)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
 	)
 	(symbol "20k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2878,11 +3164,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "220k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3036,11 +3327,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "22R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3194,11 +3490,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "22k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3352,11 +3653,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "240k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3510,11 +3816,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "27.4k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3668,11 +3979,179 @@
 				)
 			)
 		)
+		(embedded_fonts no)
+	)
+	(symbol "27k,0603"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 0 -0.635 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "27k,0603"
+			(at 1.905 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 2.54 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 2.54 -4.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, 0603"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "27k"
+			(at 1.905 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 5.08 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1W"
+			(at 10.795 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 4.445 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "R resistor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "27k,0603_1_1"
+			(rectangle
+				(start -1.016 -2.54)
+				(end 1.016 2.54)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.27)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.27)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
 	)
 	(symbol "2k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3826,11 +4305,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "3.9k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3984,11 +4468,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "300R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4142,11 +4631,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "330R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4300,11 +4794,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "330k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4458,11 +4957,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "39R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4616,11 +5120,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "3k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4774,11 +5283,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "4.7k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4932,11 +5446,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "470R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5090,11 +5609,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "470k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5248,11 +5772,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "47R,1206"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5404,11 +5933,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "47k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5562,11 +6096,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "49.9R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5720,11 +6259,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "49.9R,1206"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5878,11 +6422,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "5.1M,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6036,11 +6585,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "5.1k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6194,11 +6748,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "5.6k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6352,11 +6911,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "50m,1206"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6397,7 +6961,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 01206"
+		(property "Description" "Resistor, 1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6508,11 +7072,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "560k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6666,11 +7235,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "6.8k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6824,11 +7398,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "680R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6982,11 +7561,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "680k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7140,11 +7724,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "68R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7298,11 +7887,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "68k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7456,11 +8050,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "750k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7614,11 +8213,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "75k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7772,11 +8376,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "820R,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7930,11 +8539,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "820k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -8088,11 +8702,16 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "82k,0603"
-		(pin_numbers hide)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
-			(offset 0.254) hide)
+			(offset 0.254)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -8246,5 +8865,6 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 )
