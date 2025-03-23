@@ -1,0 +1,252 @@
+(footprint "TestPoint_Probe_2x_P2.54mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Testpoint for probe with ground spring 2.54mm spacing")
+	(tags "testpoint probe ground spring")
+	(property "Reference" "REF**"
+		(at 0 3 0)
+		(layer "F.SilkS")
+		(uuid "4a42150c-e2cb-48c8-8496-6e7fedd454bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TestPoint_Probe_2x_P2.54mm"
+		(at 0 7.41 0)
+		(layer "F.Fab")
+		(uuid "db29ad0b-b335-4faf-88c7-319c7ace35e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60f94ef9-eb50-4806-9b58-af3e1017387f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f90835a1-dd76-43e2-9d6a-67a16fd76063")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.5 1.6)
+		(end 0.5 1.6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "db58786d-270a-4024-a009-69c666cbc16e")
+	)
+	(fp_line
+		(start -0.3 1.8)
+		(end 0.3 1.8)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "61847522-7772-4fe6-b4d5-0d2a6fc77598")
+	)
+	(fp_line
+		(start -0.1 2)
+		(end 0.1 2)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "77a8b314-a00e-4640-8b6e-b80a60b6fc88")
+	)
+	(fp_line
+		(start 0 1.1)
+		(end 0 1.6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "19bb248c-6ec5-4719-b627-579583d02513")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.1 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "e9dc5eec-7e0d-4b92-9d77-d2199ad9399f")
+	)
+	(fp_circle
+		(center 0 5.08)
+		(end 1.1 5.08)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7722649a-c9ff-420a-b3d7-d839d6f397c0")
+	)
+	(fp_line
+		(start -1.2 -1.2)
+		(end -1.2 6.28)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "76c67b9f-3f15-4145-bbbc-8312e5795846")
+	)
+	(fp_line
+		(start -1.2 6.28)
+		(end 1.2 6.28)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "56a0eaa8-1f42-4824-9fc4-0cbfa375ec08")
+	)
+	(fp_line
+		(start 1.2 -1.2)
+		(end -1.2 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "757b6603-0fa3-41f4-942f-2ab155c45604")
+	)
+	(fp_line
+		(start 1.2 6.28)
+		(end 1.2 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0624b2c1-b80d-48b5-9bf7-4536c6317e1c")
+	)
+	(fp_line
+		(start -0.5 1.6)
+		(end 0.5 1.6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "14d6f932-7a41-4866-9d22-c0bba36f076e")
+	)
+	(fp_line
+		(start -0.3 1.8)
+		(end 0.3 1.8)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "59e8099d-e4c4-49a8-b683-fc4cd798729b")
+	)
+	(fp_line
+		(start -0.1 2)
+		(end 0.1 2)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "043f44b2-1ee7-4c26-81f8-23496a00c959")
+	)
+	(fp_line
+		(start 0 1.1)
+		(end 0 1.6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "7e41210d-eab6-4938-a82a-8a024f0115cd")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.1 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fef5b978-6397-416a-88f3-febeac41bfd7")
+	)
+	(fp_circle
+		(center 0 5.08)
+		(end 1.1 5.08)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9eff91c3-fffb-48e5-9ca7-3eea21602ba6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3 180)
+		(layer "F.Fab")
+		(uuid "788c9283-32be-4c0b-b74e-17c5f67f5b7f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(property pad_prop_testpoint)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "c7351bc0-95e7-4de9-93f8-e2fc166956da")
+	)
+	(pad "2" thru_hole oval
+		(at 0 5.08)
+		(size 1.7 1.7)
+		(drill 1)
+		(property pad_prop_testpoint)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7072b420-9990-4d8f-a6b8-3c72e84d3433")
+	)
+	(embedded_fonts no)
+)
