@@ -1,10 +1,12 @@
 (kicad_symbol_lib
-	(version 20231120)
+	(version 20241209)
 	(generator "kicad_symbol_editor")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(symbol "750310349"
 		(pin_names
-			(offset 1.016) hide)
+			(offset 1.016)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -97,69 +99,9 @@
 		)
 		(symbol "750310349_0_1"
 			(arc
-				(start -2.54 -5.0546)
-				(mid -1.6599 -4.6901)
-				(end -1.27 -3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 -2.5146)
-				(mid -1.6599 -2.1501)
-				(end -1.27 -1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 0.0254)
-				(mid -1.6599 0.3899)
-				(end -1.27 1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 2.5654)
-				(mid -1.6599 2.9299)
-				(end -1.27 3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -1.27 -3.81)
-				(mid -1.642 -2.912)
-				(end -2.54 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -1.27 -1.27)
-				(mid -1.642 -0.372)
-				(end -2.54 0)
+				(start -1.27 3.81)
+				(mid -1.656 2.9336)
+				(end -2.54 2.5654)
 				(stroke
 					(width 0)
 					(type default)
@@ -170,8 +112,8 @@
 			)
 			(arc
 				(start -1.27 1.27)
-				(mid -1.642 2.168)
-				(end -2.54 2.54)
+				(mid -1.656 0.3936)
+				(end -2.54 0.0254)
 				(stroke
 					(width 0)
 					(type default)
@@ -181,9 +123,69 @@
 				)
 			)
 			(arc
-				(start -1.27 3.81)
+				(start -1.27 -1.27)
+				(mid -1.656 -2.1464)
+				(end -2.54 -2.5146)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -1.27 -3.81)
+				(mid -1.656 -4.6864)
+				(end -2.54 -5.0546)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 5.08)
 				(mid -1.642 4.708)
-				(end -2.54 5.08)
+				(end -1.27 3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 2.54)
+				(mid -1.642 2.168)
+				(end -1.27 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 0)
+				(mid -1.642 -0.372)
+				(end -1.27 -1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -2.54)
+				(mid -1.642 -2.912)
+				(end -1.27 -3.81)
 				(stroke
 					(width 0)
 					(type default)
@@ -217,45 +219,9 @@
 				)
 			)
 			(arc
-				(start 1.2954 -6.35)
-				(mid 1.6599 -7.2301)
-				(end 2.54 -7.5946)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 1.2954 -3.81)
-				(mid 1.6599 -4.6901)
-				(end 2.54 -5.0546)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 1.2954 -1.27)
-				(mid 1.6599 -2.1501)
-				(end 2.54 -2.5146)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 1.2954 1.27)
-				(mid 1.6599 0.3899)
-				(end 2.54 0.0254)
+				(start 1.2954 6.35)
+				(mid 1.6457 7.2517)
+				(end 2.54 7.62)
 				(stroke
 					(width 0)
 					(type default)
@@ -266,8 +232,8 @@
 			)
 			(arc
 				(start 1.2954 3.81)
-				(mid 1.6599 2.9299)
-				(end 2.54 2.5654)
+				(mid 1.6457 4.7117)
+				(end 2.54 5.08)
 				(stroke
 					(width 0)
 					(type default)
@@ -277,9 +243,57 @@
 				)
 			)
 			(arc
-				(start 1.2954 6.35)
+				(start 1.2954 1.27)
+				(mid 1.6457 2.1717)
+				(end 2.54 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 1.2954 -1.27)
+				(mid 1.6457 -0.3683)
+				(end 2.54 0)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 1.2954 -3.81)
+				(mid 1.6457 -2.9083)
+				(end 2.54 -2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 1.2954 -6.35)
+				(mid 1.6457 -5.4483)
+				(end 2.54 -5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 5.1054)
 				(mid 1.6599 5.4699)
-				(end 2.54 5.1054)
+				(end 1.2954 6.35)
 				(stroke
 					(width 0)
 					(type default)
@@ -289,56 +303,8 @@
 				)
 			)
 			(arc
-				(start 2.54 -5.08)
-				(mid 1.6458 -5.4485)
-				(end 1.2954 -6.35)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 -2.54)
-				(mid 1.6458 -2.9085)
-				(end 1.2954 -3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 0)
-				(mid 1.6458 -0.3685)
-				(end 1.2954 -1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 2.54)
-				(mid 1.6458 2.1715)
-				(end 1.2954 1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 5.08)
-				(mid 1.6458 4.7115)
+				(start 2.54 2.5654)
+				(mid 1.6599 2.9299)
 				(end 1.2954 3.81)
 				(stroke
 					(width 0)
@@ -349,9 +315,45 @@
 				)
 			)
 			(arc
-				(start 2.54 7.62)
-				(mid 1.6458 7.2515)
-				(end 1.2954 6.35)
+				(start 2.54 0.0254)
+				(mid 1.6599 0.3899)
+				(end 1.2954 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -2.5146)
+				(mid 1.6599 -2.1501)
+				(end 1.2954 -1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -5.0546)
+				(mid 1.6599 -4.6901)
+				(end 1.2954 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -7.5946)
+				(mid 1.6599 -7.2301)
+				(end 1.2954 -6.35)
 				(stroke
 					(width 0)
 					(type default)
@@ -362,6 +364,39 @@
 			)
 		)
 		(symbol "750310349_1_1"
+			(circle
+				(center -2.794 3.81)
+				(radius 0.568)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center 2.794 6.35)
+				(radius 0.568)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center 2.794 -1.27)
+				(radius 0.568)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
 			(text "N1"
 				(at -4.572 0 0)
 				(effects
@@ -387,168 +422,6 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 7.62 180)
-				(length 7.62)
-				(name "Sec1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -10.16 -5.08 0)
-				(length 7.62) hide
-				(name "Pri2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 8.89 20.32 180)
-				(length 7.62) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 8.89 22.86 180)
-				(length 7.62) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 10.16 0 180)
-				(length 7.62)
-				(name "Sec2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 8.89 25.4 180)
-				(length 7.62) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -8.89 22.86 0)
-				(length 7.62) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 10.16 -7.62 180)
-				(length 7.62)
-				(name "Sec3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -8.89 20.32 0)
-				(length 7.62) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at -10.16 5.08 0)
 				(length 7.62)
 				(name "Pri1"
@@ -568,7 +441,8 @@
 			)
 			(pin passive line
 				(at -10.16 5.08 0)
-				(length 7.62) hide
+				(length 7.62)
+				(hide yes)
 				(name "Pri1"
 					(effects
 						(font
@@ -586,7 +460,8 @@
 			)
 			(pin passive line
 				(at -10.16 5.08 0)
-				(length 7.62) hide
+				(length 7.62)
+				(hide yes)
 				(name "Pri1"
 					(effects
 						(font
@@ -595,6 +470,25 @@
 					)
 				)
 				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -10.16 -5.08 0)
+				(length 7.62)
+				(hide yes)
+				(name "Pri2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -622,7 +516,8 @@
 			)
 			(pin passive line
 				(at -10.16 -5.08 0)
-				(length 7.62) hide
+				(length 7.62)
+				(hide yes)
 				(name "Pri2"
 					(effects
 						(font
@@ -638,6 +533,156 @@
 					)
 				)
 			)
+			(pin no_connect line
+				(at -8.89 22.86 0)
+				(length 7.62)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -8.89 20.32 0)
+				(length 7.62)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 8.89 25.4 180)
+				(length 7.62)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 8.89 22.86 180)
+				(length 7.62)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 8.89 20.32 180)
+				(length 7.62)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 7.62 180)
+				(length 7.62)
+				(name "Sec1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 0 180)
+				(length 7.62)
+				(name "Sec2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 -7.62 180)
+				(length 7.62)
+				(name "Sec3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 		)
+		(embedded_fonts no)
 	)
 )
