@@ -1,0 +1,184 @@
+(footprint "TE_1551631-5"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "RFI Shield Finger, Pre-Loaded Stainless Steel Gold Solder")
+	(tags "spring")
+	(property "Reference" "REF**"
+		(at 1.295 -2.46 0)
+		(layer "F.SilkS")
+		(uuid "56ee1aba-8c3b-4cee-9a53-ab86f98ee702")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TE_1551631-5"
+		(at 5.74 2.46 0)
+		(layer "F.Fab")
+		(uuid "181c01fe-4d13-4577-b939-aec7fe6b5049")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4fc1f2f4-f40f-4641-828a-94f0d8b231aa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7badd0bc-e25e-465c-8b61-6ae0d5ba6c86")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.63 -0.5)
+		(end -0.79 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8a15db6-f852-4cdd-8ef3-f9f615829f6f")
+	)
+	(fp_line
+		(start -1.63 0.5)
+		(end -1.63 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ccbaccda-c2ae-47ef-9523-b50d4132f309")
+	)
+	(fp_line
+		(start -0.79 0.5)
+		(end -1.63 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f0cd7e9-ba6b-4afb-bc26-0fc58834bc4a")
+	)
+	(fp_line
+		(start -1.88 -0.75)
+		(end -1.88 0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "65f35dec-74d5-479d-abd9-630b73c45642")
+	)
+	(fp_line
+		(start -1.88 0.75)
+		(end 1.88 0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ed130c91-f7a3-4b36-86f4-b4ea1fce736a")
+	)
+	(fp_line
+		(start 1.88 -0.75)
+		(end -1.88 -0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6c23e528-fb72-4c2b-bb19-8c9583dcc4d4")
+	)
+	(fp_line
+		(start 1.88 0.75)
+		(end 1.88 -0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b8c21ed7-5b42-4be2-9290-5ea5e7f8ea49")
+	)
+	(fp_line
+		(start -1.63 -0.5)
+		(end 1.63 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b2d15c86-c4d5-4b2c-979c-6b1537ef958c")
+	)
+	(fp_line
+		(start -1.63 0.5)
+		(end -1.63 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2d11b207-d01e-4927-9503-651598408a32")
+	)
+	(fp_line
+		(start 1.63 -0.5)
+		(end 1.63 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e9e5dfa1-e1a1-4f47-ab50-2a221e5c2ba0")
+	)
+	(fp_line
+		(start 1.63 0.5)
+		(end -1.63 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ab13da2-7054-45a3-aaf4-f455f2337e4a")
+	)
+	(pad "1" smd rect
+		(at 0.455 0)
+		(size 1.85 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "d7296693-06cc-446d-a3ad-60698bf724f7")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_3D_USER}/Connector/TE_1551631-5.wrl"
+		(offset
+			(xyz 0.455 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
+)
