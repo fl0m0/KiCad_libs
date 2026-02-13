@@ -1,0 +1,221 @@
+(footprint "L_Bourns_SRP4020TA_4.45x4.06mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "https://www.bourns.com/docs/product-datasheets/SRP4020T.pdf")
+	(tags "Bourns SRP4020 SMD inductor")
+	(property "Reference" "REF**"
+		(at 0.635 -3.175 0)
+		(layer "F.SilkS")
+		(uuid "75983a3d-6a5a-438f-b7e4-b8269df0b833")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Bourns_SRP4020TA_4.45x4.06mm"
+		(at 8.89 3.175 0)
+		(layer "F.Fab")
+		(uuid "56e7e6ef-4bba-46d4-82de-7ca60b98a744")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f0a0ce5-a560-4a67-81ce-84b663decacd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c52e908f-c1b0-4ff0-9b4c-2bbcfa40f97a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.225 -2.03)
+		(end 2.225 -2.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "87e2971c-9209-45de-ad27-181f09d509bd")
+	)
+	(fp_line
+		(start -2.225 -1.5)
+		(end -2.225 -2.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e23562f0-0172-4153-ac9e-1572e4937403")
+	)
+	(fp_line
+		(start -2.225 2.03)
+		(end -2.225 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fb6e9300-4dfd-4503-8986-71dcc4e20df5")
+	)
+	(fp_line
+		(start -2.225 2.03)
+		(end 2.225 2.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e6908c42-089f-4174-8eca-f2e863b89370")
+	)
+	(fp_line
+		(start 2.225 -2.03)
+		(end 2.225 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8cb1906-32e0-4678-b68e-478811491e74")
+	)
+	(fp_line
+		(start 2.225 2.03)
+		(end 2.225 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b6cd1065-790c-463b-b344-af06d3dc09c1")
+	)
+	(fp_line
+		(start -2.85 -2.28)
+		(end 2.85 -2.28)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "33a60d40-3ef8-4f43-8b25-8d4a823ef971")
+	)
+	(fp_line
+		(start -2.85 2.28)
+		(end -2.85 -2.28)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "90156be2-af01-4031-b381-8478eaa0b048")
+	)
+	(fp_line
+		(start 2.85 -2.28)
+		(end 2.85 2.28)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ceaec890-9439-4289-b0dc-337dd0512a03")
+	)
+	(fp_line
+		(start 2.85 2.28)
+		(end -2.85 2.28)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "05a57f70-1c09-449a-9660-403ffff389a6")
+	)
+	(fp_line
+		(start -2.225 -2.03)
+		(end 2.225 -2.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "94afe1dc-cd58-4285-8567-35f2e8599b85")
+	)
+	(fp_line
+		(start -2.225 2.03)
+		(end -2.225 -2.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c1aa8143-6524-43bc-b7e7-bc03433112d5")
+	)
+	(fp_line
+		(start 2.225 -2.03)
+		(end 2.225 2.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d97c96e2-53bc-4b8c-86ba-085325385656")
+	)
+	(fp_line
+		(start 2.225 2.03)
+		(end -2.225 2.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "18bcf04e-fa4d-4044-b2fd-b3b8b4443ddd")
+	)
+	(pad "1" smd rect
+		(at -1.85 0)
+		(size 1.5 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "afafb379-de01-4628-84b9-4b9d1792bb11")
+	)
+	(pad "2" smd rect
+		(at 1.85 0)
+		(size 1.5 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "a1f3b482-d32c-40ac-9c8f-c7384ffb194d")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_3D_USER}/Inductor/L_Bourns_SRP4020TA_4.45x4.06mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
