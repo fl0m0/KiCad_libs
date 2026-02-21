@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_User:SSD1306_0.96_Oled"
+		(property "Footprint" "Display_User:SSD1306_0.96_OLED_27x27.8mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -50,6 +50,15 @@
 			)
 		)
 		(property "ki_keywords" "OLED"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SSD1306_0.96_Oled*"
 			(at 0 0 0)
 			(effects
 				(font
