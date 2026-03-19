@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -3.8 0)
 		(layer "F.SilkS")
-		(uuid "c2cdf122-788e-47b5-8fae-5e5c0003b613")
+		(uuid "3f9b0e28-95bf-4def-b0a6-3eb0a4d4dd24")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "Silicon_Labs_QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm"
 		(at 0 3.8 0)
 		(layer "F.Fab")
-		(uuid "1c95ad94-cb34-4991-aa54-3c61bc6ac50f")
+		(uuid "1097fe39-c619-4f3e-96d1-8ea34928ecd9")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "85291068-3f4c-45a7-b78f-2cf094ed7e06")
+		(uuid "75e8f0b1-f5e9-4de1-ae81-357c8903cfdc")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "bd2c9880-5ee3-40a6-a265-0e5ffce7d15a")
+		(uuid "e9451347-b117-42db-a288-6853bb677941")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -52,18 +52,6 @@
 		)
 	)
 	(attr smd)
-	(fp_poly
-		(pts
-			(xy -1.8 -1.5) (xy -1.5 -1.8) (xy 1.8 -1.8) (xy 1.8 1.8) (xy -1.8 1.8)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Cu")
-		(uuid "f42c1727-cc9c-4722-a295-7ba717d30d1d")
-	)
 	(fp_line
 		(start -2.61 -2.135)
 		(end -2.61 -2.37)
@@ -631,16 +619,19 @@
 		(roundrect_rratio 0.25)
 		(uuid "46135e10-6c06-49ac-9dd9-dad7b7867c70")
 	)
-	(pad "33" smd rect
+	(pad "33" smd roundrect
 		(at 0 0)
-		(size 3.1 3.1)
+		(size 3.6 3.6)
 		(property pad_prop_heatsink)
 		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0)
+		(chamfer_ratio 0.082)
+		(chamfer top_left)
 		(zone_connect 2)
 		(uuid "d2f4785e-a860-4874-b3ec-aa90d1b6711f")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm.step"
+	(model "${KICAD_3D_USER}/Package_DFN_QFN/Silicon_Labs_QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -648,7 +639,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )

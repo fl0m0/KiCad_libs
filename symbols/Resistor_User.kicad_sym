@@ -9880,7 +9880,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "56R,0603"
+	(symbol "56R, 0.5%, 0.1W, 0603"
 		(extends "0R,0603")
 		(property "Reference" "R"
 			(at 0 -0.635 90)
@@ -9891,7 +9891,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "56R,0603"
+		(property "Value" "56R, 0.5%, 0.1W, 0603"
 			(at 1.905 2.54 0)
 			(effects
 				(font
@@ -9929,11 +9929,29 @@
 			)
 		)
 		(property "Resistance" "56R"
+			(at 0 0.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.5%"
+			(at 3.556 0.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "0.1W"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "ki_keywords" "R resistor"
