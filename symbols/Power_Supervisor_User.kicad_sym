@@ -247,7 +247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tps3808.pdf"
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MIC6315-Open-Drain-Microprocessor-Reset-Circuit-DS20006450A.pdf"
 			(at -2.54 0 0)
 			(effects
 				(font

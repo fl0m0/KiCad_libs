@@ -3778,7 +3778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " Datenblatt"
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn3402.pdf"
 			(at -11.938 -20.066 0)
 			(effects
 				(font
